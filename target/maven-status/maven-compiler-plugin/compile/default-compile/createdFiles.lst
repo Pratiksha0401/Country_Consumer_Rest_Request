@@ -1,0 +1,10 @@
+com\countries\config\CountryConfiguration.class
+com\countries\wsdlClasses\Country.class
+com\countries\CountrriesWsdlConsumer1Application.class
+com\countries\wsdlClasses\GetCountryRequest.class
+com\countries\client\CountryClient.class
+com\countries\wsdlClasses\ObjectFactory.class
+com\countries\wsdlClasses\package-info.class
+com\countries\controller\CountryController.class
+com\countries\wsdlClasses\Currency.class
+com\countries\wsdlClasses\GetCountryResponse.class
